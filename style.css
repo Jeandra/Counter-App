@@ -53,8 +53,10 @@ button {
     margin-left: 1rem;
 } 
 
-.decrement { background-color: #4caf50;} 
+.increment { background-color: #2196f3;} 
 
 .reset { background-color: #f44336;} 
 
-.increment { background-color: #2196f3;} 
+.decrement { background-color: #4caf50;} 
+
+
