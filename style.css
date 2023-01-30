@@ -17,7 +17,7 @@ body {
     justify-content: center;
     min-height: 90vh;
     background: linear-gradient(90deg,
-    #ff2c87, #ff0000);
+    #e2e3f5, #a3a6c5);
     background-size: 300% 300%;
     animation: change 3s infinite ease-in-out;
 } 
