@@ -51,7 +51,13 @@ button {
     cursor: pointer;
     margin-top: 20px;
     margin-left: 1rem;
+   
 } 
+
+button:hover {
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
 
 .increment { background-color: #2196f3;} 
 
